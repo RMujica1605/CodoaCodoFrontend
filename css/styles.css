@@ -609,7 +609,63 @@ input#correo {
   font-size: 18px;
   text-align: justify;
 }
+.busqueda {
+  margin-left: 30px;
+  margin-top: 90px;
+  padding-top: 10px;
+  bottom: 30px;
+  left: 16px;
+  right: 16px;
+  font-size: 18px;
+  text-align: justify;
+}
+.buscar {
+  margin-left: 30px;
+  margin-top: 30px;
+  padding-top: 10px;
+  bottom: 30px;
+  left: 16px;
+  right: 16px;
+  font-size: 18px;
+  text-align: justify;
 
+}
+input#bbtn {
+  margin-top: 10px;
+  bottom: 50px;
+  font-size: 16px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-weight: bold;
+  align-content: center;
+  text-align: center;
+  border-radius: 1rem;
+  box-shadow: 0 1rem 1rem rgba(0, 0, 0, .2);
+  background: #fafafa;
+  min-width: 20rem;
+  width: 17%;
+  max-width: 25rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+}
+input#bbtn:hover {
+  transform: scale(1.1);
+}
+input#ingresa {
+  text-decoration: none;
+  font-size: 16px;
+  align-content: center;
+  text-align: center;
+  background: #fafafa;
+  min-width: 20rem;
+  width: 17%;
+  max-width: 25rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+}
 
 
 
